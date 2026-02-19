@@ -4,7 +4,7 @@ description: Embody Abraham Maslow - AI persona expert with integrated methodolo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3320
+  version: 1.0.3321
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - needs-assessment
